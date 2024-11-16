@@ -1,0 +1,15 @@
+C:\Users\Matheus\source\repos\estudosStruct\estudosStruct\bin\Debug\net8.0\estudosStruct.exe
+C:\Users\Matheus\source\repos\estudosStruct\estudosStruct\bin\Debug\net8.0\estudosStruct.deps.json
+C:\Users\Matheus\source\repos\estudosStruct\estudosStruct\bin\Debug\net8.0\estudosStruct.runtimeconfig.json
+C:\Users\Matheus\source\repos\estudosStruct\estudosStruct\bin\Debug\net8.0\estudosStruct.dll
+C:\Users\Matheus\source\repos\estudosStruct\estudosStruct\bin\Debug\net8.0\estudosStruct.pdb
+C:\Users\Matheus\source\repos\estudosStruct\estudosStruct\obj\Debug\net8.0\estudosStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\estudosStruct\estudosStruct\obj\Debug\net8.0\estudosStruct.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\estudosStruct\estudosStruct\obj\Debug\net8.0\estudosStruct.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\estudosStruct\estudosStruct\obj\Debug\net8.0\estudosStruct.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\estudosStruct\estudosStruct\obj\Debug\net8.0\estudosStruct.sourcelink.json
+C:\Users\Matheus\source\repos\estudosStruct\estudosStruct\obj\Debug\net8.0\estudosStruct.dll
+C:\Users\Matheus\source\repos\estudosStruct\estudosStruct\obj\Debug\net8.0\refint\estudosStruct.dll
+C:\Users\Matheus\source\repos\estudosStruct\estudosStruct\obj\Debug\net8.0\estudosStruct.pdb
+C:\Users\Matheus\source\repos\estudosStruct\estudosStruct\obj\Debug\net8.0\estudosStruct.genruntimeconfig.cache
+C:\Users\Matheus\source\repos\estudosStruct\estudosStruct\obj\Debug\net8.0\ref\estudosStruct.dll
